@@ -1,0 +1,44 @@
+header {
+
+    border: 5px red solid;
+
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding-left: 60px;
+    padding-right: 70px;
+    padding-top: 80px;
+    padding-bottom: 40px;
+
+
+}
+
+main {
+    border-left: 8px yellow solid;
+    border-right: 10px green dashed;
+    border-top: 20px red dotted;
+    border-bottom: 30px purple double;
+    padding: 40px 30px 20px 10px;
+    margin-top: 60px;
+}
+
+footer {
+
+    border: 20px solid black;
+    margin: 0 auto;
+    width: 60%;
+}
+
+.horzontaal_link {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60%;
+}
+
+li {
+    display: inline;
+    background-color: chartreuse;
+    padding-right: 40px;
+}
